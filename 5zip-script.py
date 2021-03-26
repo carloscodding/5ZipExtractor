@@ -1,9 +1,5 @@
 from zipfile import ZipFile
 
-import time 
-
-from tqdm import tqdm 
-
 import os
 
 print("Welcome To 5Zip Extractor")
